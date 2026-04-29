@@ -1,14 +1,9 @@
-# Hey, I’m Raunak Masih
+# Hey, I’m Raunak
 
-**Engineer in the making. AI-Driven. Vision-Focused.**  
-I'm on a mission to build high-impact AI solutions that shape the future.
-
-- 🔭 Currently learning: Machine Learning, Python, and AI fundamentals  
-- 🎯 Goal: Build and launch real-world AI projects  
-- 🌍 Future plan: Master’s abroad | Explore, Learn, Lead  
+** Engineer in the making. 
+- 🔭 Currently learning: Machine Learning 
 - 📸 Creator behind [@grayxraunak](https://www.instagram.com/grayxraunak) | [My Blog](https://graynature.wordpress.com)
 
-> "Code. Grind. Conquer."
 
 ---
 
@@ -16,7 +11,6 @@ I'm on a mission to build high-impact AI solutions that shape the future.
 
 - **Languages:** Python, Java, C/C++
 - **Tools:** Git, VS Code, Jupyter, Linux
-- **Learning:** Machine Learning, Deep Learning, Data Science
 
 ---
 
