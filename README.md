@@ -22,4 +22,3 @@
 
 ---
 
-_This is just the beginning. Watch me build the future._
