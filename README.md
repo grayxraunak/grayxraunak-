@@ -16,4 +16,4 @@ Python · Java · C/C++ · Git · Linux
 
 ### Links
 
-[GitHub](https://github.com/grayxraunak) · [Blog](https://graynature.wordpress.com) · [Instagram](https://instagram.com/grayxraunak) · [Email](grayxraunak@gmail.com)
+ [Blog](https://graynature.wordpress.com) · [Instagram](https://instagram.com/grayxraunak) · [Email](grayxraunak@gmail.com)
