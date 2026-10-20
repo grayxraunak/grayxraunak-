@@ -1,24 +1,19 @@
-# Hey, I’m Raunak
+# Raunak Masih
 
-** Engineer in the making. 
-- 🔭 Currently learning: Machine Learning 
-- 📸 Creator behind [@grayxraunak](https://www.instagram.com/grayxraunak) | [My Blog](https://graynature.wordpress.com)
+Computer Science student focused on **Machine Learning**.
 
+Exploring machine learning systems, and develop my understanding of AI research.
 
----
+### Focus
 
-### Tech Stack
+- Machine Learning and Explainable AI
+- Cybersecurity and intelligent systems
+- Research, experimentation, and model evaluation
 
-- **Languages:** Python, Java, C/C++
-- **Tools:** Git, VS Code, Jupyter, Linux
+### Technologies
 
----
+Python · Java · C/C++ · Git · Linux
 
-### Connect with me
+### Links
 
-- Instagram: [@grayxraunak](https://www.instagram.com/grayxraunak)
-- Blog: [graynature.wordpress.com](https://graynature.wordpress.com)
-- Email: [grayrejx@gmail.com](mailto:grayrejx@gmail.com)
-
----
-
+[GitHub](https://github.com/grayxraunak) · [Blog](https://graynature.wordpress.com) · [Instagram](https://instagram.com/grayxraunak) · [Email](grayxraunak@gmail.com)
